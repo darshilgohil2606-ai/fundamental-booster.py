@@ -1,6 +1,4 @@
-Here’s a clean `README.md` you can use for your project:
 
- README.md
 
 # Interactive Personal Data Collector
 
