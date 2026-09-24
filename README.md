@@ -13,6 +13,9 @@
 
  The program then displays the collected information along with the **data type** and **memory address** of each value. It also calculates an approximate birth year based on the user's age.
 
+## Video Demo
+https://drive.google.com/file/d/1yJlBZjvA_UPfDNv18-r-aHIIH0nsSvgZ/view?usp=sharing
+
  ## 🛠️ Technologies Used
 
  - **Python 3**
